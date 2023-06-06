@@ -1,0 +1,10 @@
+Motion Detection Code:
+- Original code written by Rishi Barua
+- Adapted and modified for motion detection
+
+OpenCV:
+- Official OpenCV documentation: https://docs.opencv.org/
+- OpenCV GitHub repository: 
+
+Python:
+- Python documentation: https://docs.python.org/
