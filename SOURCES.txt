@@ -4,7 +4,7 @@ Motion Detection Code:
 
 OpenCV:
 - Official OpenCV documentation: https://docs.opencv.org/
-- OpenCV GitHub repository: 
+- OpenCV GitHub repository:'https://github.com/RISHI9922/MOTION.PYTHON.PKG.git'
 
 Python:
 - Python documentation: https://docs.python.org/
