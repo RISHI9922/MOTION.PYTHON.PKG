@@ -32,7 +32,7 @@ Feel free to experiment and customize the code according to your needs.
 
 License
 
-This project is licensed under the MIT License.
+This project is licensed under Apache Sofwtare License.
 
 Acknowledgements
 
@@ -42,9 +42,9 @@ Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
-Author
+Author 
 
-Your Name
+Your Name Rishi Barua
 
 References
 
