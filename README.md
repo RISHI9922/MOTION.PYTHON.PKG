@@ -32,7 +32,7 @@ Feel free to experiment and customize the code according to your needs.
 
 License
 
-This project is licensed under Apache Sofwtare License.
+This project is licensed under Apache Software License.
 
 Acknowledgements
 
