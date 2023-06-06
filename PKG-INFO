@@ -10,7 +10,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='Your Name',
-    author_email='your@email.com',
+    author_email='rishibarua6345@gmail.com',
     url='https://github.com/yourusername/your-repository',
     packages=[''],
     install_requires=[
@@ -19,7 +19,7 @@ setup(
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: Apache Software License',  # Updated license
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
