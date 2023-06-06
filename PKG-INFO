@@ -11,7 +11,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Your Name',
     author_email='rishibarua6345@gmail.com',
-    url='https://github.com/yourusername/your-repository',
+    url='https://github.com/RISHI9922/MOTION.PYTHON.PKG.git',
     packages=[''],
     install_requires=[
         'opencv-python',
